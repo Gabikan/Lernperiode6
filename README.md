@@ -2,7 +2,7 @@
 
 ## Gabriel Zefaj
 ## Grobplanung 16.8.2024-27.9.2024
-Ich will in diesem Jahr einfach vieles neues 
+Ich will in dieser Lernperiode 
 
 
 ## 16.8.2024
@@ -17,11 +17,19 @@ Vorlage Arbeitspakete:
 
 ## 23.8.2024
 - [ ] Programmierübung Bigrams?
-- [ ] Modulauftrag Instanzvariablen 1
-- [ ] Modulauftrag Instanzvariablen 2
+- [ x] Modulauftrag Instanzvariablen 1
+- [ x] Modulauftrag Instanzvariablen 2
 - [ ] 
 
 ## Heute habe ich.... 
+Ich habe am Modul 322 die Aufträge zu Instanzvariablen beendet mit denen ich nicht fertig wurde die Programmierübung hatte ich einfach mal so eingeplannt weil ich nicht einschätzen konnte wie lange die Aufträge noch brauchen. 
+
+## 30.8.2024
+- [ ] html scroll effekte video anschauen
+- [ ] html scroll effekte in Website einbauen
+- [ ] Modulaufträge
+- [ ] 
+
 
 
 
