@@ -1,7 +1,9 @@
 # Lernperiode6
 
 ## Gabriel Zefaj
-## 16.8.2024-27.9.2024
+## Grobplanung 16.8.2024-27.9.2024
+Ich will in diesem Jahr einfach vieles neues 
+
 
 ## 16.8.2024
 ### Heute habe ich....
@@ -14,10 +16,12 @@ Vorlage Arbeitspakete:
 - [ ] 
 
 ## 23.8.2024
-- [ ] Programmierübung Bigrams 
-- [ ] Funktion Getmostfrequent 
-- [ ] Funktion Translate 
+- [ ] Programmierübung Bigrams?
+- [ ] Modulauftrag Instanzvariablen 1
+- [ ] Modulauftrag Instanzvariablen 2
+- [ ] 
 
-## Heute habe ich....
+## Heute habe ich.... 
+
 
 
