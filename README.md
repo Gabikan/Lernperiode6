@@ -28,8 +28,18 @@ Ich habe am Modul 322 die Aufträge zu Instanzvariablen beendet mit denen ich ni
 - [ ] html scroll effekte video anschauen
 - [ ] html scroll effekte in Website einbauen
 - [ ] Modulaufträge
-- [ ] 
 
+## Heute habe ich...
+An meiner alter Website Scrolleffekte probiert einzubauen ich war aber nicht so top fit und habe mich schwach gefühlt weswegen ich danach ein bisschen länger an den Modulaufträgen von Herrn Meyer gearbeitet habe da das Thema mit den überladenen Konstruktoren echt kompliziert vorkommt.
+
+## 6.9.2024
+Vorlage Arbeitspakete:
+- [ ] html scroll für Bilder
+- [ ] Modulauftrag
+- [ ] Promillerechner
+- [ ] Puffer
+
+## Heute habe ich...
 
 
 
