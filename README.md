@@ -52,7 +52,7 @@ Vorlage Arbeitspakete:
 ## Heute habe ich...
 an meinem promillerechner gearbeitet und den Modulauftrag zu Low fidelity Prototyp gemacht.
 
-## 30.9.2024
+## 20.9.2024
 Vorlage Arbeitspakete:
 - [ ] Low Fidelity Typ erstellen LB M322
 - [ ] High Fidelity Typ
