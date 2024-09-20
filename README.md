@@ -40,6 +40,24 @@ Vorlage Arbeitspakete:
 - [ ] Puffer
 
 ## Heute habe ich...
+krank
 
+## 13.9.2024
+Vorlage Arbeitspakete:
+- [ ] html scroll für Bilder
+- [x ] Modulauftrag
+- [x ] Promillerechner
+- [ ] Puffer
+
+## Heute habe ich...
+an meinem promillerechner gearbeitet und den Modulauftrag zu Low fidelity Prototyp gemacht.
+
+## 30.9.2024
+Vorlage Arbeitspakete:
+- [ ] Low Fidelity Typ erstellen LB M322
+- [ ] High Fidelity Typ
+- [ ] Low Fidelity Typ testen
+
+## Heute habe ich...
 
 
