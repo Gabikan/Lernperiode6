@@ -54,10 +54,16 @@ an meinem promillerechner gearbeitet und den Modulauftrag zu Low fidelity Protot
 
 ## 20.9.2024
 Vorlage Arbeitspakete:
-- [ ] Low Fidelity Typ erstellen LB M322
+- [x ] Low Fidelity Typ erstellen LB M322
 - [ ] High Fidelity Typ
-- [ ] Low Fidelity Typ testen
+- [x ] Low Fidelity Typ testen
+- [ x] Persona fertigstellen
 
 ## Heute habe ich...
+Ich habe heute an der LB gearbeitet ich habe einen den Lo-fi fertig gestellt sowie ich auch die Personas, mit dem High fidelity habe ich kaum angefangen.
 
+## 27.9.2024
+- [ ] Left Center Right Game PAP
+- [ ] Left Center Right Game programmieren
+- [ ] Left Center Right Game 
 
